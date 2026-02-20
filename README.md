@@ -1,6 +1,10 @@
-Pizza Place Sales
+
 A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+
+
 These are the observations gotten after analyzing the data
+
+
 the 4 dataset ( Orders, Order Details, Pizzas, and Pizza Types)were imported and then merged together for easy analysis.the data has 48620 rows and 12 columns the total sales was calculated which gives (817860.0499999999) approximately 817860.1 as the answer.
 Total quantity sold was analysed to determine the number or amount of pizza sold which gave 49574 as the answer.
 Total orders (21350),the amount of the types of pizza sold(32),while the average price(16) were deduced respectively.
